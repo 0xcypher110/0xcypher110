@@ -1,6 +1,6 @@
 ![Capsule header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Cypher&fontSize=52&animation=fadeIn&fontAlignY=36)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Offensive+Security%3BWeb+Security%3BResearching&color=00FFFF)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Offensive+security+reseacher%3BWeb+security%3BCybersecurity)
 
 
 ### Stack
