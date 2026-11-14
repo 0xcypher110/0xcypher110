@@ -1,5 +1,10 @@
 ![Capsule header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Cypher&fontSize=52&animation=fadeIn&fontAlignY=36)
 
+<p>
+  <a href="https://medium.com/@cypherr3"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00F0FF&labelColor=000000&color=000000" alt="Medium"/></a>
+  <a href="https://x.com/0xcypher110"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F0FF&labelColor=000000&color=000000" alt="X"/></a>
+</p>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Offensive+security+reseacher%3BWeb+security%3BCybersecurity)
 
 
@@ -13,8 +18,4 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xcypher110&theme=github_dark)
 
 ![Contribution streak](https://streak-stats.demolab.com?user=0xcypher110&theme=transparent&hide_border=true)
-
-## Contact
-
-[![X (Twitter)](https://coolreadme.xyz/api/x-card?user=Cypher&handle=0xcypher110&content=Sharing%20knowledge%20and%20more%20here%2C%20contact%20me%20here&style=compact&theme=dark&accent=%231d9bf0&verified=true&replies=1.8k&retweets=3.2k&likes=22.1k&views=1.8M&bookmarks=5.4k&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&link=https%3A%2F%2Fx.com%2F0xcypher110)](https://x.com/0xcypher110)
 
